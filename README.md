@@ -1,7 +1,8 @@
 # Customer Segmentation using RFM Analysis and K means Algorithm
 
 ![segmentation-picture](https://github.com/vaadewoyin/Customer-Segmentation-using-RFM-Analysis-and-K-means-Algorithm/blob/main/segmentation.jpg)
-<a href="https://www.freepik.com/free-photo/gray-rag-dolls-targets_959205.htm#query=customer%20segmentation&position=3&from_view=keyword&track=ais">Image by d3images</a> on Freepik
+*Image credit: [Image by d3images</a> on Freepik](https://www.freepik.com/free-photo/gray-rag-dolls-targets_959205.htm#query=customer%20segmentation&position=3&from_view=keyword&track=ais")*
+
 
 ### RFM Analysis
 RFM (Recency, Frequency, Monetary) analysis is a powerful customer segmentation technique used in marketing and customer relationship management. It helps businesses gain insights into customer behavior and identify valuable customer segments.
