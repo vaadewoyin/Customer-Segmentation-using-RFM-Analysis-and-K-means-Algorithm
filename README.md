@@ -1,5 +1,8 @@
 # Customer Segmentation using RFM Analysis and K means Algorithm
 
+![segmentation-picture](https://github.com/vaadewoyin/Customer-Segmentation-using-RFM-Analysis-and-K-means-Algorithm/blob/main/segmentation.jpg)
+<a href="https://www.freepik.com/free-photo/gray-rag-dolls-targets_959205.htm#query=customer%20segmentation&position=3&from_view=keyword&track=ais">Image by d3images</a> on Freepik
+
 ### RFM Analysis
 RFM (Recency, Frequency, Monetary) analysis is a powerful customer segmentation technique used in marketing and customer relationship management. It helps businesses gain insights into customer behavior and identify valuable customer segments.
 
@@ -31,11 +34,11 @@ All the necessary data cleaning have already been done in this [notebook](https:
 2. After RFM values for each customer was obtained, Customer segmentation into segments was done using the Kmeans clustering algorithm.
 3. Elbow curve and silhoutte score was used to choose optimum value of k. The optimum value for k is 2.
 
-![choosing right k](https://github.com/vaadewoyin/Customer-Segmentation-using-RFM-Analysis-and-K-means-Algorithm/blob/main/image_1.png)
+![choosing-right-k](https://github.com/vaadewoyin/Customer-Segmentation-using-RFM-Analysis-and-K-means-Algorithm/blob/main/image_1.png)
 
 Even though the optimum cluster numbers is 2, because the online retail market is diverse, with customers exhibiting a wide range of preferences, buying behaviors, and demographics, By using 3 clusters, we can capture more distinct customer segments, gain deeper insights into their specific needs and preferences and also develop more personalized marketing strategies for each segment. The segmentation details based on 3 clusters is shown in the table below:
 
-![3 clusters details](https://github.com/vaadewoyin/Customer-Segmentation-using-RFM-Analysis-and-K-means-Algorithm/blob/main/image_2.png).
+![3-clusters-details](https://github.com/vaadewoyin/Customer-Segmentation-using-RFM-Analysis-and-K-means-Algorithm/blob/main/image_2.png).
 
 From the segmentation result shown above, we can deduce and recommend the following:
 
@@ -48,5 +51,5 @@ Cluster 2: These customers have a longer recency period(mean recency is more tha
 
 A snake plot for the segmentation is shown below:
 
-![snake plot](https://github.com/vaadewoyin/Customer-Segmentation-using-RFM-Analysis-and-K-means-Algorithm/blob/main/image%20_3.png)
+![snake-plot](https://github.com/vaadewoyin/Customer-Segmentation-using-RFM-Analysis-and-K-means-Algorithm/blob/main/image%20_3.png)
 
